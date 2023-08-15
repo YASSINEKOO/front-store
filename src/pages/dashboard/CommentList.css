@@ -1,0 +1,23 @@
+.app-info {
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
+}
+
+.app-info img {
+    border-radius: 50%;
+    margin-bottom: 0.5rem;
+}
+
+.app-info h1 {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.app-info div {
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+}

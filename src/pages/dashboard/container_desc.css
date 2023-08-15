@@ -1,0 +1,14 @@
+.container_avatar {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+/*   .avatar {
+    /* Your Avatar styling here 
+  }
+  
+  .description {
+    /* Your description styling here 
+  } */
+  
